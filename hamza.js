@@ -92,9 +92,7 @@ document.write('<hr size=0.5>');
 
 
 }
-;document.write('<a href="http://24work.blogspot.com" target="_blank" title="Blogger Widgets"><img src="http://safir85.ucoz.com/24work-blogspot/cursor-24work-10.png" border="0" alt="Blogger Widgets" style="position:absolute; top: 0px; right: 0px;" /></a>');
 
-}
 /*
      FILE ARCHIVED ON 12:07:14 May 06, 2013 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 14:06:05 Jan 02, 2021.
