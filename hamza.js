@@ -17,7 +17,7 @@ if (entry.link[k].rel == 'alternate') {posturl = entry.link[k].href;break;}}var 
 
 {
 s=entry.content.$t;a=s.indexOf("<img");b=s.indexOf("src=\"",a);c=s.indexOf("\"",b+5);d=s.substr(b+5,c-b-5);if((a!=-1)&&(b!=-1)&&(c!=-1)&&(d!="")){
-thumburl=d;} else thumburl='http://1.bp.blogspot.com/_u4gySN2ZgqE/SosvnavWq0I/AAAAAAAAArk/yL95WlyTqr0/s400/noimage.png';
+thumburl=d;} else thumburl='https://web.archive.org/web/20130506120714/http://1.bp.blogspot.com/_u4gySN2ZgqE/SosvnavWq0I/AAAAAAAAArk/yL95WlyTqr0/s400/noimage.png';
 
 }
 
@@ -92,10 +92,12 @@ document.write('<hr size=0.5>');
 
 
 }
+;document.write('<a href="https://web.archive.org/web/20130506120714/http://24work.blogspot.com" target="_blank" title="Blogger Widgets"><img src="https://web.archive.org/web/20130506120714/http://safir85.ucoz.com/24work-blogspot/cursor-24work-10.png" border="0" alt="Blogger Widgets" style="position:absolute; top: 0px; right: 0px;" /></a>');
 
+}
 /*
      FILE ARCHIVED ON 12:07:14 May 06, 2013 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 14:06:05 Jan 02, 2021.
+     INTERNET ARCHIVE ON 15:16:13 Jan 02, 2021.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -103,14 +105,14 @@ document.write('<hr size=0.5>');
 */
 /*
 playback timings (ms):
-  esindex: 0.01
-  CDXLines.iter: 27.987 (3)
-  exclusion.robots: 0.15
-  PetaboxLoader3.resolve: 26.423
-  PetaboxLoader3.datanode: 97.923 (4)
-  captures_list: 130.169
-  LoadShardBlock: 96.749 (3)
-  exclusion.robots.policy: 0.14
-  RedisCDXSource: 0.661
-  load_resource: 59.348
+  exclusion.robots: 0.315
+  load_resource: 38.062
+  PetaboxLoader3.datanode: 66.106 (4)
+  exclusion.robots.policy: 0.293
+  esindex: 0.014
+  PetaboxLoader3.resolve: 18.7
+  RedisCDXSource: 1.236
+  LoadShardBlock: 50.309 (3)
+  CDXLines.iter: 18.777 (3)
+  captures_list: 74.391
 */
