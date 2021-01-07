@@ -1,40 +1,3 @@
-<div id="24work">
-<style>img.recent_thumb {padding:1px;width:55px;height:55px;border:0;float:right;margin:0 0 5px 10px;}.recent_posts_with_thumbs {
-    float: left;
-    width: 250;
-    min-height: 70px;
-    margin: auto;
-    padding: 0;
-    font-size: 12px;
-}ul.recent_posts_with_thumbs li {
-    padding-bottom: 5px;
-    padding-top: 5px;
-    float: right;
-    white-space: nowrap;
-    list-style: none;
-}.recent_posts_with_thumbs a {text-decoration:none;}
-
-.recent_posts_with_thumbs strong {
-    font-size: 10px;
-    float: right;
-    display: flex;
-    border: ridge;
-    margin-left: 4px;
-}
-
-b {
-    display: flex;
-}
-
-a {
-    margin-top: 3;
-}
-
-
-</style>
-
-<script style='text/javascript'>
-
 var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
 if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
 {
@@ -101,34 +64,3 @@ document.write('');
 ;document.write('');
 
 }
-
-
-</script>
-
-<script style='text/javascript'>
-
-
-
-var numposts = 5;
-
-var showpostthumbnails = true;
-
-var displaymore = true;
-
-var displayseparator = true;
-
-var showcommentnum = true;
-
-var showpostdate = true;
-
-var showpostsummary = true;
-
-var numchars = 100;</script>
-
-
-
-<script src='https://almal3ab24.blogspot.com/feeds/posts/default?orderby=published&alt=json-in-script&callback=showrecentpostswiththumbs'></script>
-
-
-
-</span></div>
